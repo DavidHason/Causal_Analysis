@@ -1,4 +1,7 @@
 # Causal_Analysis
+
+https://youtu.be/pNX_ubzskak
+
 Causal Analysis of Customer Churn using DeepLearning
 
 Introduction:
